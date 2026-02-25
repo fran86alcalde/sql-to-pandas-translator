@@ -1,2 +1,4 @@
-pandas
-sqlparse
+fastapi
+uvicorn
+streamlit
+requests
